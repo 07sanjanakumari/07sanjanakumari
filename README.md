@@ -129,9 +129,6 @@ Core Computer Science
 Java
         ↓
 Full-Stack Development
-```
-
-I'm focusing on **understanding concepts, building projects, and practicing consistently** rather than just collecting technologies.
 
 ---
 
@@ -145,11 +142,6 @@ I'm focusing on **understanding concepts, building projects, and practicing cons
 * 🛠️ Build meaningful real-world projects
 * 📚 Keep learning and improving consistently
 
----
-
-## 📊 GitHub Activity
-
-I use GitHub to document my learning journey, practice programming, and showcase projects.
 
 <!-- GitHub stats can be added later -->
 
@@ -157,21 +149,9 @@ I use GitHub to document my learning journey, practice programming, and showcase
 
 ## 🤝 Let's Connect
 
-I'm always interested in **learning, building projects, collaborating, and exploring new ideas in technology**.
+I'm always interested in **learning, building projects, collaborating, and exploring new ideas in technology
 
----
-
-## 💡 Developer Mindset
-
-> **Learn → Build → Practice → Improve → Repeat**
-
-I'm still learning, and that's the point.
-Every project, every problem, and every line of code is part of the journey. 🚀
-
----
-
-⭐ **Thanks for visiting my profile!**
-## Hi there 👋
+⭐ Thanks for visiting my profile!
 
 <!--
 **07sanjanakumari/07sanjanakumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
