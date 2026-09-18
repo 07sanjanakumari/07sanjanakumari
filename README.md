@@ -18,18 +18,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
 
 - 🎓 Information Technology undergraduate at **MCKV Institute of Engineering**.
-- 💡*Focus:** FullStack Development, AIML.
-- 💼 Hands-on experience from internships at **CodeAlpha**
-- 🎯 Seeking opportunities in software engineering, frontend development, and applied machine learning.
+- 💡Focus: Full-Stack Development , AI/ML.
+- 💼 Hands-on experience from internships at CodeAlpha
+- 🎯 Seeking opportunities in software engineering, web development.
 
 ---
 
