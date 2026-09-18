@@ -1,109 +1,51 @@
-# 👋 Hi, I'm Sanjana Kumari
+<h1 align="center">Hi, I'm Sanjana Kumari 👋</h1>
+<p align="center">
+  <b> 3rd Year Information Technology Student | Aspiring Software Engineer</b>
+</p>
 
-I'm a 3rd year B.Tech Information Technology student at MCKV Institute of Engineering ** who enjoys learning through hands-on projects and practical problem solving.
-
-I'm currently building my foundation in **Full stack development, programming, and AI/ML** while continuously improving my coding and problem-solving skills.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech Information Technology Student
-* 💻 Aspiring Software & Full-Stack Developer
-* 🌐 Currently learning Frontend Development
-* ☕ Practicing Java and Object-Oriented Programming
-* 🐍 Building my programming foundation with Python
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 🛠️ Learning by building projects and solving problems
-* 🌱 Continuously learning and improving
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjana-kumari-11411b411/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sanjanaakumari7278@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/sanjana96966/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
 ---
 
-## 🧑‍💻 What I'm Currently Learning
-
-### 🌐 Web Development
-
-* HTML5
-* CSS3
-* Responsive Web Design
-* Frontend Development
-* JavaScript *(Learning)*
-
-### 💻 Programming
-
-* Java
-* Python
-* Object-Oriented Programming
-* Problem Solving
-* Data Structures & Algorithms *(Learning)*
-
-### 🤖 AI / ML
-
-* Machine Learning fundamentals
-* Data Analysis
-* Exploratory Data Analysis
-* Python libraries for Data Science
-* AI-based projects
-
-### 🖥️ Core Computer Science
-
-* Operating Systems
-* Computer Networks
-* Database Management Systems
-* Compiler Design
-* Object-Oriented Programming
+### 👩‍💻 About Me
+- 🎓 **Education:** B.Tech in Information Technology at MCKV Institute of Engineering.
+- 💡 **Focus:** FullStack developments, AI/ML.
+- 🛠️ **Experience & Activities:** Interned at CodeAlpha; active contributor in GDG sessions and Smart India Hackathon.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Tech Stack & Skills
 
-### Languages
+**Languages**  
+<img src="https://skillicons.dev/icons?i=java,py,cpp,js,html,css&theme=dark" alt="Languages" />
 
-\
+**Frontend & Backend**  
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mysql,mongodb&theme=dark" alt="Frameworks" />
 
-### Web Development
-
-\
-
-### Tools
-
-
-
-\
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,figma&theme=dark" alt="Tools" />
 
 ---
 
-## 📂 Featured Projects
+### 📌 Featured Projects
 
-### 🍴 Sanjana Dishes
-
-A recipe website created to practice **HTML, CSS, frontend design, and responsive layouts**.
-
-**Tech:** HTML • CSS
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Frontend Web Apps** | Interactive web platforms built during CodeAlpha internship. | JavaScript, React, CSS | [Source Code](#) |
 
 ---
 
-### 🧮 Calculator
+### 📊 GitHub & Problem-Solving Stats
 
-A simple calculator project created as part of my frontend development practice.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="42%" />
+</p>
 
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 💼 Personal Portfolio
-
-A personal portfolio website showcasing my projects, skills, and learning journey.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### ☕ Java Programming
-
-A continuously updated repository containing my **Java practice, programming concepts, OOP exercises, and problem-solving journey**.
-
-**Tech:** Java
-
----
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Karma&border=0&radius=10" width="450px" alt="LeetCode Live Stats" />
+</p>
