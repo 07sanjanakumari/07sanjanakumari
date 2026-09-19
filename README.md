@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Its%20Sanjana%20Kumari&fontSize=42&fontColor=ffffff&animation=false" width="100%" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Sanjana%20Kumari&fontSize=42&fontColor=ffffff&animation=false" width="100%" alt="Header Background" />
 </p>
 <h1 align="center">Hi, I'm Sanjana Kumari 👋</h1>
 <p align="center">
@@ -23,7 +23,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Information Technology undergraduate at **MCKV Institute of Engineering**.
-- 💡Focus: Full-Stack Development , AI/ML.
+- 💡Focus: Full-Stack Development .
 - 💼 Hands-on experience from internships at CodeAlpha
 - 🎯 Seeking opportunities in software engineering, web development.
 
@@ -94,19 +94,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <!-- Optional fourth project slot or left empty for symmetry -->
     </td>
   </tr>
 </table>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07sanjanakumari&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07sanjanakumari&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="42%" />
-<p align="center">
-  <sub>Designed cleanly with static widgets | Open to collaboration & discussions</sub>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer&text=Thanks%20for%20Visiting!%20✨&fontSize=26&fontColor=ffffff&animation=false" width="100%" alt="Thank You Banner" />
-</p>
