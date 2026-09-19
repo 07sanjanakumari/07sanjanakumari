@@ -70,10 +70,10 @@
       <p>A personal portfolio showcasing technical skills, academic milestones, and web development projects with a focus on clean UI design.</p>
       <p><b>Built With:</b> HTML5, CSS3, JavaScript</p>
       <p>
-        <a href="https://github.com/07sanjanakumari/portfolio" target="_blank">
+        <a href="https://github.com/07sanjanakumari/CodeAlpha_portfolio" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-View-181717?style=flat-square&logo=github" alt="Source Code" />
         </a>
-        <a href="https://07sanjanakumari.github.io/portfolio" target="_blank">
+        <a href="https://07sanjanakumari.github.io/CodeAlpha_portfolio" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" />
         </a>
       </p>
@@ -85,10 +85,10 @@
       <p>A functional calculator application that handles basic arithmetic calculations with real-time expression parsing and responsive button interactions.</p>
       <p><b>Built With:</b> HTML5, CSS3, JavaScript</p>
       <p>
-        <a href="https://github.com/07sanjanakumari/calculator" target="_blank">
+        <a href="https://07sanjanakumari.github.io/CodeAlpha_Calculator"> target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-View-181717?style=flat-square&logo=github" alt="Source Code" />
         </a>
-        <a href="https://07sanjanakumari.github.io/calculator" target="_blank">
+        <a href="https://07sanjanakumari.github.io/CodeAlpha_Calculator" >target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" />
         </a>
       </p>
