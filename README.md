@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Sanjana%20Kumari&fontSize=42&fontColor=ffffff&animation=false" width="100%" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Its%20Sanjana%20Kumari&fontSize=42&fontColor=ffffff&animation=false" width="100%" alt="Header Background" />
 </p>
 <h1 align="center">Hi, I'm Sanjana Kumari 👋</h1>
 <p align="center">
-  <b>Information Technology Undergraduate | Aspiring Software & ML Engineer</b>
+  <b>Information Technology Undergraduate | Aspiring Software Engineer</b>
 </p>
 
 <p align="center">
@@ -55,12 +55,12 @@
     <td width="50%" valign="top">
       <h4>🍲 Sanjana Dishes</h4>
       <p>A responsive food and recipe presentation website featuring clean navigation, modern culinary layouts, and structured menu categorization.</p>
-      <p><b>Built With:</b> HTML5, CSS3, Flexbox, Media Queries</p>
+      <p><b>Built With:</b> HTML5, CSS3, Flexbox</p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/sanjana-dishes" target="_blank">
+        <a href="https://github.com/07sanjanakumari/sanjana-dishes" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-View-181717?style=flat-square&logo=github" alt="Source Code" />
         </a>
-        <a href="https://YOUR_GITHUB_USERNAME.github.io/sanjana-dishes" target="_blank">
+        <a href="https://07sanjanakumari.github.io/sanjana-dishes" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" />
         </a>
       </p>
@@ -70,10 +70,10 @@
       <p>A personal portfolio showcasing technical skills, academic milestones, and web development projects with a focus on clean UI design.</p>
       <p><b>Built With:</b> HTML5, CSS3, JavaScript</p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio" target="_blank">
+        <a href="https://github.com/07sanjanakumari/portfolio" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-View-181717?style=flat-square&logo=github" alt="Source Code" />
         </a>
-        <a href="https://YOUR_GITHUB_USERNAME.github.io/portfolio" target="_blank">
+        <a href="https://07sanjanakumari.github.io/portfolio" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" />
         </a>
       </p>
@@ -85,10 +85,10 @@
       <p>A functional calculator application that handles basic arithmetic calculations with real-time expression parsing and responsive button interactions.</p>
       <p><b>Built With:</b> HTML5, CSS3, JavaScript</p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/calculator" target="_blank">
+        <a href="https://github.com/07sanjanakumari/calculator" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-View-181717?style=flat-square&logo=github" alt="Source Code" />
         </a>
-        <a href="https://YOUR_GITHUB_USERNAME.github.io/calculator" target="_blank">
+        <a href="https://07sanjanakumari.github.io/calculator" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" />
         </a>
       </p>
@@ -106,4 +106,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07sanjanakumari&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="42%" />
 <p align="center">
   <sub>Designed cleanly with static widgets | Open to collaboration & discussions</sub>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer&text=Thanks%20for%20Visiting!%20✨&fontSize=26&fontColor=ffffff&animation=false" width="100%" alt="Thank You Banner" />
 </p>
